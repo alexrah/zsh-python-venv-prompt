@@ -38,4 +38,4 @@ Prompt can be customized by editing the following environment variables:
 
 - `ZSH_THEME_VENV_BASENAME`: sets a custom string overriding the data extracted from `$VIRTUAL_ENV`
 
-- `ZSH_THEME_VENV_VERSION`: sets a custom string overriding the venv Python version
+- `ZSH_THEME_VENV_PYVERSION`: sets a custom string overriding the venv Python version
